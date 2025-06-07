@@ -9,6 +9,14 @@ A beautiful, production-ready web application built with React and Konva that al
 ![Konva](https://img.shields.io/badge/Konva-9.2.0-green?style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.1-blue?style=for-the-badge&logo=tailwindcss)
 
+## 🚀 Live Demo & Video
+
+**🌐 Live Application**: [https://sticker-canvas-zeta.vercel.app/](https://sticker-canvas-zeta.vercel.app/)
+
+**🎥 Demo Video**: [Watch on Loom](https://www.loom.com/share/3129264976f44e2b95a22b759b35758e?sid=ea06e7db-b995-4031-a717-f54c7f564675)
+
+*Experience the interactive sticker canvas in action! The demo showcases all features including drag-and-drop functionality, grid snapping, and PNG export capabilities.*
+
 ## ✨ Features
 
 ### 🎯 Core Functionality
@@ -200,10 +208,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Link**: [https://github.com/yourusername/myera-sticker-canvas](https://github.com/yourusername/myera-sticker-canvas)
+**Live Demo**: [https://sticker-canvas-zeta.vercel.app/](https://sticker-canvas-zeta.vercel.app/)
 
-**Live Demo**: [https://myera-sticker-canvas.netlify.app](https://myera-sticker-canvas.netlify.app)
+**Demo Video**: [Watch on Loom](https://www.loom.com/share/3129264976f44e2b95a22b759b35758e?sid=ea06e7db-b995-4031-a717-f54c7f564675)
+
+**Project Repository**: Available upon request
 
 ---
 
-
+<div align="center">
+  <p>Made with ❤️ for MyEra Frontend Internship</p>
+  <p>
+    <a href="https://sticker-canvas-zeta.vercel.app/">🌐 Live Demo</a> •
+    <a href="https://www.loom.com/share/3129264976f44e2b95a22b759b35758e?sid=ea06e7db-b995-4031-a717-f54c7f564675">🎥 Video Demo</a> •
+    <a href="#-features">Features</a> •
+    <a href="#-quick-start">Quick Start</a> •
+    <a href="#-how-to-use">Usage</a>
+  </p>
+</div>
