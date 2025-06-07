@@ -206,12 +206,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
-  <p>Made with ❤️ for MyEra Frontend Internship</p>
-  <p>
-    <a href="#-features">Features</a> •
-    <a href="#-quick-start">Quick Start</a> •
-    <a href="#-how-to-use">Usage</a> •
-    <a href="#-contributing">Contributing</a>
-  </p>
-</div>
+
